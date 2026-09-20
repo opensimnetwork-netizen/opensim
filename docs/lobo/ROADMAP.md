@@ -16,7 +16,7 @@
 - [x] Install required .NET runtime and dependencies.
 - [x] Install/configure MariaDB.
 - [x] Build OpenSimulator from `lobo-development`.
-- [ ] Launch a test ROBUST instance.
+- [x] Launch a test ROBUST instance.
 - [ ] Launch at least one test region.
 - [ ] Verify viewer login.
 - [ ] Verify asset and inventory persistence.
