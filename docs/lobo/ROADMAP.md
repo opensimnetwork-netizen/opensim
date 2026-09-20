@@ -14,7 +14,7 @@
 
 - [x] Inspect Contabo OS, CPU, RAM, disk, and network configuration.
 - [x] Install required .NET runtime and dependencies.
-- [ ] Install/configure MariaDB.
+- [x] Install/configure MariaDB.
 - [x] Build OpenSimulator from `lobo-development`.
 - [ ] Launch a test ROBUST instance.
 - [ ] Launch at least one test region.
