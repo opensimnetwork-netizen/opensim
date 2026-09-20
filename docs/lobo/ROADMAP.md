@@ -6,16 +6,16 @@
 - [x] Fork `opensim/opensim`.
 - [x] Create `lobo-development` branch.
 - [x] Document initial product direction.
-- [ ] Capture staging server specifications.
-- [ ] Establish build verification.
+- [x] Capture staging server specifications.
+- [x] Establish build verification.
 - [ ] Tag a known-good upstream baseline.
 
 ## Phase 1 — Clean OpenSimulator staging deployment
 
-- [ ] Inspect Contabo OS, CPU, RAM, disk, and network configuration.
-- [ ] Install required .NET runtime and dependencies.
+- [x] Inspect Contabo OS, CPU, RAM, disk, and network configuration.
+- [x] Install required .NET runtime and dependencies.
 - [ ] Install/configure MariaDB.
-- [ ] Build OpenSimulator from `lobo-development`.
+- [x] Build OpenSimulator from `lobo-development`.
 - [ ] Launch a test ROBUST instance.
 - [ ] Launch at least one test region.
 - [ ] Verify viewer login.
