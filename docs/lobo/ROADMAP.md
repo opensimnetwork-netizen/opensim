@@ -17,7 +17,7 @@
 - [x] Install/configure MariaDB.
 - [x] Build OpenSimulator from `lobo-development`.
 - [x] Launch a test ROBUST instance.
-- [ ] Launch at least one test region.
+- [x] Launch at least one test region.
 - [ ] Verify viewer login.
 - [ ] Verify asset and inventory persistence.
 - [ ] Verify Hypergrid connectivity.
